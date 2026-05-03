@@ -5,6 +5,8 @@ This should also show that small models like Kokoro with only 82 million paramet
 
 In short: An open source "NotebookLM" for English Listening Tasks.
 
+https://github.com/user-attachments/assets/3436efa3-3822-48b3-a261-f1d117d0d5af
+
 ## Gradio UI
 ![](Gradio_UI.png)
 
