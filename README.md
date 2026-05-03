@@ -5,6 +5,9 @@ This should also show that small models like Kokoro with only 82 million paramet
 
 In short: An open source "NotebookLM" for English Listening Tasks.
 
+## Gradio UI
+![](Gradio_UI.png)
+
 ## Kokoro-82M
 https://huggingface.co/hexgrad/Kokoro-82M
 
@@ -16,9 +19,14 @@ In this case gemma4:e4b was used, but any other model can be used.
 
 https://ollama.com/library/gemma4
 
-### Requirements
-The requirements for the python environment can be found in the requirements.txt.
+## Requirements
+The requirements for the python environment can be found in the [requirements.txt](requirements.txt).
 
 You also need a local Ollama installed on your device or change it to your prefered LLM distributor.
 
 Make sure that you have enough RAM/VRAM on you device!
+
+## Example Output
+Audio: [Audio Example](example_output.wav)
+
+Transcript: [Transcript Example](example_transcript.txt)
